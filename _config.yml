@@ -1,10 +1,10 @@
 # Config file:
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
-title: "Nitin Kumar Singh"
-description: "My Learning and Adventures in Computer Science and Life"
+title: "anonymous"
+description: "We are watching you"
 baseurl: 
-url: "https://nkstech.live"
+url: "https://navilvarta.ga"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%Y-%m-%d"
 read_time: true
@@ -70,25 +70,25 @@ author:
   name: Nitin
   picture: /assets/nks1.png
   email:
-  twitter: https://twitter.com/nitinkumarsin10
+  twitter: https://twitter.com/
   links:
     - title: LinkedIn
-      url: https://linkedin.com/in/nitinnks
+      url: https://linkedin.com/in/
       icon:
 
 social:
-  name: Nitin
+  name: Mcubes
   links:
-    - https://twitter.com/nitinkumarsin10
-    - https://www.linkedin.com/in/nitinnks/
+    - https://mcubescloud.tk
+    
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/nitinkumarsin10
+    url: https://twitter.com/
     icon: fab fa-twitter-square
   - title: GitHub
-    url: https://github.com/nitinitleen1
+    url: https://github.com/mdy007
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
