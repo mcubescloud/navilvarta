@@ -34,7 +34,7 @@ okay fine lets come to the point **What is Navil-Varta?**
 
 ## Varta
 {% highlight line %}
-वार्ता: Varta : Speak (	information, news, health(state of))
+वार्ता: Varta : Speak (Information,News, Health(state of))
 {% endhighlight %}
 * Varta is purely originated from **Sanskrit**
 * Again Sanskrit also know as oldest and holy language and the debit b/w Tamil and Sanskrit is been in all ages.
