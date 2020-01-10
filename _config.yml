@@ -17,9 +17,9 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: "UA-155354311-1"
 disqus:
-  shortname: "nkstech-live"
+  shortname: "navil-varta"
 twitter:
-  username: "nitinkumarsin10"
+  username: ""
 gems:
     - jekyll-seo-tag
     - jekyll-lunr-js-search
@@ -46,7 +46,7 @@ category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
 # SiteMap
-url: "https://nkstech.live" # the base hostname & protocol for your site
+url: "https://navilvarta.ga" # the base hostname & protocol for your site
 
 plugins:
   - jekyll-seo-tag
