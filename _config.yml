@@ -19,7 +19,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: "UA-155354311-1"
 disqus:
-  shortname: "navil-varta"
+  shortname: "navilvarta"
 twitter:
   username: ""
 gems:
