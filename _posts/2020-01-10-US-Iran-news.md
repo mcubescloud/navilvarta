@@ -14,7 +14,7 @@ image: "/assets/download.jpg"
 ---
 BY NAVIL-VARTA,
 
-TORONTO (AP) — The worst had passed, it seemed, and the United States and Iran no longer appeared poised at the edge of war.
+**TORONTO (AP)** — The worst had passed, it seemed, and the United States and Iran no longer appeared poised at the edge of war.
 
 “All is well!” President Donald Trump tweeted Tuesday night, days after a U.S. drone strike killed Iran’s most powerful general, and Iran, after a barrage of missiles, had signaled it was stepping back from further escalation.
 
@@ -30,11 +30,15 @@ Instead, what had begun with a drone attack on Gen. Qassem Soleimani’s motorca
 
 Some in Canada quickly blamed Trump for the disaster.
 
+{% highlight shell %}
 “This is insane. Sickening. Imagine having a family member on that plane,” said Rob Kent, a 42-year-old Toronto resident. “One man, and only one, is responsible for those deaths. And he will never face consequences for them."
+{% endhighlight %}
 
 But Parseyan wasn’t so sure.
 
+{% highlight shell %}
 “It takes two to tango,” he said. “It's not hard to see the downing as a result of the escalation between the two countries. However, Iran is responsible for its own military defense equipment. While it has the right to defend itself, as it should to protect its own people, it should also have the responsibility with that right to make sure their defensive systems aren't targeting civilian aircraft."
+{% endhighlight %}
 
 Canadian Prime Minister Justin Trudeau, who has at times had a rocky relationship with Trump, was careful not to say the U.S. strike was responsible for what happened.
 
