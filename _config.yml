@@ -6,7 +6,7 @@ description: "Interesting and Effective Stories, News, Theories of ALL with orig
 baseurl: 
 url: "https://navilvarta.ga"
 theme_settings :
-   - favicon : favicon.ico/nv.ico
+     favicon : favicon.ico/nv.ico
 logo: favicon.ico/nv.ico
 date_format: "%Y-%m-%d"
 read_time: true
