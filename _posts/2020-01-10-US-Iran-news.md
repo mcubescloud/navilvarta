@@ -12,7 +12,6 @@ tags:
 image: "/assets/download.jpg"
 
 ---
-BY NAVIL-VARTA,
 
 **TORONTO (AP)** — The worst had passed, it seemed, and the United States and Iran no longer appeared poised at the edge of war.
 
