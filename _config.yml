@@ -67,7 +67,7 @@ defaults:
 
 # Site Author
 author: 
-  name: Nitin
+  name: MdY
   picture: /assets/nks1.png
   email:
   twitter: https://twitter.com/
@@ -90,7 +90,4 @@ footer_links:
   - title: GitHub
     url: https://github.com/mdy007
     icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
-copyright: "©2019 All Right Reserved. "
+copyright: "©2020 All Right Reserved. "
