@@ -4,7 +4,7 @@ locale: en-US
 title: "Navil-Varta"
 description: "Interesting and Effective News, Facts, Theories of in and out with fruitful and original content"
 baseurl: 
-url: "https://navilvarta.mcubescloud.in"
+url: "https://navilvarta.ga"
 theme_settings :
      favicon : favicon.ico/final.ico
 logo: favicon.ico/nv.ico
